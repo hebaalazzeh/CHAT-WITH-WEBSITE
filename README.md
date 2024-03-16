@@ -8,6 +8,7 @@ Conversational Interface: The user interacts with the website by typing messages
 Context-Aware Responses: The system generates responses based on the context of the conversation, providing relevant and meaningful answers.
 Web Scraping: The system extracts text content from the specified website URL using web scraping techniques.
 Natural Language Processing: Conversational AI models process user inputs and generate appropriate responses, simulating human-like interactions.
+
 Dynamic Session Management: The system maintains a chat history and session state, enabling seamless continuation of conversations across interactions.
 Implementation Details:
 
